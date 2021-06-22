@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127821461515",
+    "project_id": "universalchat-2c089",
+    "storage_bucket": "universalchat-2c089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127821461515:android:86ea495931897d4e79ef0e",
+        "android_client_info": {
+          "package_name": "com.example.universalhello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127821461515-hl7oe7ifjt37hidiefr0mflh4s917o3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.universalhello",
+            "certificate_hash": "1aaf0729a6fbb528f82cb5ad076edbee63412afa"
+          }
+        },
+        {
+          "client_id": "127821461515-1k6sigocl9ilcrbhav7827qeg6v7es13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QwoEbZCl5TNblnObCNZijbHHgbE2MYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127821461515-1k6sigocl9ilcrbhav7827qeg6v7es13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
